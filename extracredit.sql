@@ -21,11 +21,11 @@ Extra Credit SQL
 
     Find the birthdate for the youngest employee.
         SELECT MIN(birth_date) from employee;
+
     Find the birthdate for the oldest employee.
         SELECT MAX(birth_date) from employee;
 
-   
-   
+
    
  Invoice Table
 
